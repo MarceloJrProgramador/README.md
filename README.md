@@ -36,17 +36,17 @@ Atualmente curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos en
 
 🔹 Dashboard de Vendas - Power BI
 
-Análise de indicadores comerciais com criação de dashboards.
+
 
 
 🔹 Portfólio Front-End
 
-Interfaces responsivas utilizando HTML, CSS e JavaScript.
+
 
 
 🔹 Aplicações Web
 
-Projetos desenvolvidos para praticar desenvolvimento.
+
 
 
 ## 📫 Contato
