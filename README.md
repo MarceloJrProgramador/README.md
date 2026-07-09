@@ -1,4 +1,4 @@
-# Olá, eu sou Marcelo Junior 👋
+# Olá, eu sou Marcelo Junior 👨‍💻
 
 🚀 Instrutor de Cursos Livres em Tecnologia | Analista de Dados Júnior
 
