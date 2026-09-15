@@ -569,7 +569,7 @@ Além dos conhecimentos técnicos, minha experiência profissional me permitiu d
 
 ---
 
-# 📚 Atualmente
+<h1>📚 Atualmente</h1>
 
 🎓 Estudando **Análise de Dados na Universidade Cruzeiro do Sul**
 
@@ -579,14 +579,13 @@ Além dos conhecimentos técnicos, minha experiência profissional me permitiu d
 
 📊 Desenvolvendo conhecimentos em **Dados e Business Intelligence**
 
-💻 Aprimorando conhecimentos em **programação e desenvolvimento web**
+💻 Aprimorando conhecimentos em **Programação e Desenvolvimento Web**
 
 🗄️ Estudando **Banco de Dados e SQL**
 
-🤖 Explorando aplicações de **Inteligência Artificial e automação**
+🤖 Explorando aplicações de **Inteligência Artificial e Automação**
 
 ---
-
 # 📫 Contato
 
 Você pode entrar em contato comigo pelos canais abaixo:
