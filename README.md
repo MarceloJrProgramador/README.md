@@ -26,7 +26,7 @@ Meu objetivo é continuar evoluindo profissionalmente na área de tecnologia, co
 
 💻 Experiência acadêmica com desenvolvimento de aplicações web
 
-🗄️ Interesse em **Banco de Dados e organização de informações**
+🗄️ Interesse em **Desenvolvimento Front.End, Banco de dados e organização de informações**
 
 🤖 Interesse em **Inteligência Artificial e automação**
 
