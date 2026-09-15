@@ -596,13 +596,7 @@ Além dos conhecimentos técnicos, minha experiência profissional me permitiu d
 
 ---
 
-# 🤝 Vamos nos conectar
 
-Estou aberto a **networking, aprendizado, projetos e oportunidades profissionais** nas áreas de:
-
-`Análise de Dados` `Business Intelligence` `Tecnologia` `Desenvolvimento` `Banco de Dados` `Automação`
-
----
 
 # 📫 Contato
 
