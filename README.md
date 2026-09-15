@@ -1,104 +1,176 @@
 # 👋 Olá, eu sou Marcelo Junior
 
-### 📊 Analista de Dados em Formação | Coordenador Pedagógico | Instrutor de Tecnologia
+### 📊 Estudante de Análise de Dados | Coordenador Pedagógico | Instrutor de Tecnologia
 
 Sou estudante de **Análise de Dados na Universidade Cruzeiro do Sul** e atualmente atuo como **Coordenador Pedagógico e Instrutor de Tecnologia na Microlins**.
 
-Minha trajetória profissional combina **educação, gestão e tecnologia**.
+Minha trajetória profissional reúne **tecnologia, educação, gestão, análise de informações e desenvolvimento de soluções digitais**.
 
-No meu dia a dia, trabalho com acompanhamento de alunos, organização pedagógica, gestão de turmas, controles, indicadores, planejamento e utilização de ferramentas tecnológicas para melhorar processos.
+No ambiente profissional, trabalho com organização pedagógica, acompanhamento de alunos, gestão de turmas, indicadores, controles, planilhas, processos internos, comunicação e utilização de tecnologia para apoiar a operação e a tomada de decisão.
 
-Paralelamente, venho desenvolvendo projetos que envolvem **desenvolvimento web, banco de dados, interfaces, organização de sistemas, Inteligência Artificial e trabalho em equipe**.
+Na área técnica, desenvolvo meus conhecimentos em **Análise de Dados, Business Intelligence, Banco de Dados, desenvolvimento web, programação, automação e Inteligência Artificial**.
 
-Meu objetivo é continuar evoluindo profissionalmente na área de tecnologia, com foco principalmente em **Análise de Dados, Business Intelligence e desenvolvimento de soluções tecnológicas**.
+Tenho interesse em transformar problemas reais em soluções utilizando **dados, tecnologia e organização de processos**.
 
 ---
 
-# 👨‍💼 Sobre mim
+# 👨‍💼 Perfil Profissional
 
-🎓 Estudante de **Análise de Dados — Universidade Cruzeiro do Sul**
+🎓 **Estudante de Análise de Dados — Universidade Cruzeiro do Sul**
 
 🏫 **Coordenador Pedagógico — Microlins**
 
 👨‍🏫 **Instrutor de Tecnologia — Microlins**
 
-📊 Foco profissional em **Análise de Dados e Business Intelligence**
+📊 Foco em **Análise de Dados e Business Intelligence**
 
-💻 Experiência acadêmica com desenvolvimento de aplicações web
+📈 Experiência com acompanhamento e organização de indicadores
 
-🗄️ Interesse em **Desenvolvimento Front.End, Banco de dados e organização de informações**
+📑 Desenvolvimento de planilhas e controles
 
-🤖 Interesse em **Inteligência Artificial e automação**
+💻 Conhecimentos em desenvolvimento web e programação
 
-📈 Interesse em transformar informações em **indicadores e apoio à tomada de decisão**
+🗄️ Conhecimentos em Banco de Dados e SQL
+
+⚙️ Interesse em automação de processos
+
+🤖 Utilização de Inteligência Artificial como ferramenta de produtividade, pesquisa e desenvolvimento
 
 ---
 
 # 🎯 Objetivo Profissional
 
-Estou construindo minha carreira na área de **Tecnologia**, com direcionamento principal para **Análise de Dados e Business Intelligence**.
+Estou construindo minha carreira na área de **Dados e Tecnologia**, buscando oportunidades onde possa unir minha experiência profissional em gestão e educação com meus conhecimentos técnicos.
 
-Busco oportunidades onde possa aplicar e desenvolver conhecimentos relacionados a:
+Tenho interesse principalmente em:
 
-- 📊 Análise e interpretação de dados
+- 📊 Análise de Dados
 - 📈 Business Intelligence
 - 🗄️ Banco de Dados
-- 📑 Relatórios e informações gerenciais
-- 📊 Visualização de dados
-- 💻 Desenvolvimento de soluções tecnológicas
-- ⚙️ Automação de processos
+- 🔎 SQL
+- 📑 Excel
+- 📊 Power BI
+- 📉 Visualização de Dados
+- 📑 Relatórios Gerenciais
+- 💻 Tecnologia da Informação
+- ⚙️ Automação de Processos
 - 🤖 Inteligência Artificial
-- 🔎 Resolução de problemas
+- 🌐 Desenvolvimento Web
 
-Tenho interesse principalmente em oportunidades como:
+### 💼 Áreas de interesse
 
-**Analista de Dados Júnior | Assistente de Dados | Analista de BI Júnior | Assistente de BI | Analista de Indicadores**
-
----
-
-# 🚀 Tecnologias e Ferramentas
-
-## 📊 Dados & Business Intelligence
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Avançado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-Banco%20de%20Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-Análise%20de%20Dados-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Analista de Dados Júnior | Assistente de Dados | Analista de BI Júnior | Assistente de BI | Analista de Indicadores | Tecnologia da Informação**
 
 ---
 
-## 💻 Desenvolvimento
+# 🚀 Tecnologias e Competências Técnicas
 
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🌐 Desenvolvimento Web
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Conhecimentos
+
+- HTML
+- CSS
+- JavaScript
+- WordPress
+- Estruturação de páginas web
+- Formulários
+- Layouts responsivos
+- Organização de interfaces
+- Desenvolvimento de projetos web
+
 ---
 
-## 🗄️ Banco de Dados
+# 💻 Programação
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-Conhecimentos em:
+### Conhecimentos
 
-- Modelagem de dados
+- Linguagem C
+- C#
+- Lógica de Programação
+- Estruturas condicionais
+- Estruturas de repetição
+- Variáveis e tipos de dados
+- Funções
+- Resolução de problemas
+- Desenvolvimento de algoritmos
+
+---
+
+# 🗄️ Banco de Dados
+
+![SQL](https://img.shields.io/badge/SQL-Banco%20de%20Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Conhecimentos
+
+- SQL
+- Banco de Dados
 - Estruturação de tabelas
+- Consultas
 - Relacionamentos
-- Consultas SQL
 - Organização de informações
-- Integração entre aplicações e banco de dados
+- Modelagem de dados
+- Integração entre aplicações e Banco de Dados
 
 ---
 
-## 🛠️ Ferramentas
+# 📊 Dados & Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-MOS-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Conhecimentos
+
+- Power BI
+- Excel
+- Excel do básico ao avançado
+- Microsoft Office Specialist — MOS
+- Organização e tratamento de dados
+- Criação de planilhas
+- Fórmulas
+- Relatórios
+- Indicadores
+- Dashboards
+- Organização de bases de dados
+- Visualização de informações
+- Apoio à tomada de decisão
+
+---
+
+# 🧠 Principais Conhecimentos
+
+- HTML
+- CSS
+- JavaScript
+- WordPress
+- C
+- C#
+- SQL
+- Power BI
+- Excel / MOS
+- Lógica de Programação
+- Banco de Dados
+- Business Intelligence
+- Git
+- GitHub
+- Inteligência Artificial
+
+---
+
+# 🛠️ Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -110,6 +182,37 @@ Conhecimentos em:
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
+### Outras ferramentas e conhecimentos
+
+- Git
+- GitHub
+- Visual Studio Code
+- Figma
+- Trello
+- Pacote Office
+- Inteligência Artificial
+- Banco de Dados
+- Ferramentas digitais
+- Organização de projetos
+
+---
+
+# 🌎 Idiomas
+
+🇧🇷 **Português — Nativo**
+
+🇪🇸 **Espanhol — Fluente**
+
+- Conversação
+- Escrita
+- Leitura
+
+🇺🇸 **Inglês — Básico**
+
+- Leitura básica
+- Vocabulário técnico
+- Termos relacionados à tecnologia
+
 ---
 
 # 💼 Experiência Profissional
@@ -118,145 +221,161 @@ Conhecimentos em:
 
 Atuação na organização e acompanhamento dos processos pedagógicos, alunos, turmas, professores e atividades educacionais.
 
-### Principais atividades
+### Principais responsabilidades
 
+- Gestão e acompanhamento de turmas
 - Acompanhamento de alunos
-- Gestão de turmas
-- Organização pedagógica
 - Controle de presença e faltas
 - Organização de reposições
+- Acompanhamento de desempenho
+- Organização pedagógica
 - Acompanhamento de indicadores
-- Controle e organização de informações
-- Desenvolvimento de planilhas e controles internos
-- Comunicação com alunos e responsáveis
-- Apoio e acompanhamento de instrutores
-- Organização de atividades
+- Organização e tratamento de informações
+- Criação e utilização de planilhas
+- Desenvolvimento de controles internos
+- Comunicação com alunos
+- Comunicação com responsáveis
+- Apoio aos professores
 - Planejamento pedagógico
-- Utilização de tecnologia para melhoria de processos
+- Organização de avaliações
+- Acompanhamento de atividades
+- Utilização de tecnologia na melhoria de processos
+
+### Competências desenvolvidas
+
+- Liderança
+- Gestão de pessoas
+- Organização
+- Planejamento
+- Comunicação
+- Análise de informações
+- Resolução de problemas
+- Tomada de decisão
+- Gestão de prioridades
 
 ---
 
 ## 👨‍🏫 Instrutor de Tecnologia — Microlins
 
-Atuação no ensino de tecnologia e desenvolvimento de competências técnicas e profissionais.
+Atuação no ensino de tecnologia e desenvolvimento de competências técnicas e profissionais dos alunos.
 
-### Competências desenvolvidas
+### Atividades e competências
 
+- Ensino de tecnologia
+- Orientação de alunos
+- Aulas práticas e teóricas
+- Suporte técnico
+- Desenvolvimento de atividades
+- Acompanhamento da evolução dos alunos
 - Didática
 - Comunicação
-- Suporte técnico
-- Resolução de problemas
-- Organização
-- Gestão de pessoas
-- Trabalho em equipe
+- Lógica de Programação
+- Ferramentas digitais
 - Tecnologia aplicada à educação
-- Desenvolvimento de alunos
-- Orientação profissional
-- Liderança
-- Planejamento
+- Trabalho em equipe
+- Resolução de problemas
 
 ---
 
 # 📌 Projetos em Destaque
 
-Aqui estão alguns dos principais projetos desenvolvidos durante minha formação, aplicando conhecimentos de **desenvolvimento web, banco de dados, organização de projetos, trabalho em equipe e Inteligência Artificial**.
+Os projetos abaixo representam minha evolução prática em **desenvolvimento web, programação, Banco de Dados, organização de projetos, trabalho em equipe e utilização de Inteligência Artificial**.
 
 ---
 
-# 🎓 BityEdu — Plataforma Educacional Integrada
+# 🍗 Popeyes — Plataforma Web de Pedidos Online
+
+### ⭐ Projeto em Destaque
 
 ### 🌐 Demonstração
 
-🔗 **[Acessar BityEdu](https://penny-savor-92115544.figma.site)**
+🔗 **[Acessar Plataforma Popeyes](https://big-sting-66449588.figma.site)**
 
-A **BityEdu** é uma plataforma educacional moderna, integrada e responsiva, desenvolvida em uma **equipe de duas pessoas**.
+Projeto desenvolvido em uma **equipe de três pessoas**, com o objetivo de criar uma plataforma web moderna e responsiva para realização de pedidos online, inspirada na identidade visual do **Popeyes**.
 
-O projeto foi criado com o objetivo de centralizar informações acadêmicas e facilitar a organização e o acompanhamento entre **coordenação, professores, alunos e responsáveis**.
+A proposta foi desenvolver uma experiência completa para o usuário, desde a navegação pelo cardápio até a finalização do pedido.
 
-O desenvolvimento deste projeto também possui relação direta com minha experiência profissional como **Coordenador Pedagógico e Instrutor de Tecnologia**, permitindo unir conhecimentos de **educação, gestão e tecnologia**.
+O projeto permitiu trabalhar diferentes etapas do desenvolvimento de uma aplicação, incluindo **planejamento, interface, desenvolvimento, Banco de Dados, organização de tarefas e trabalho em equipe**.
 
-### 🚀 Principais funcionalidades
+## 🚀 Principais funcionalidades
 
-- 🔐 Sistema de login
-- 🏫 Ambiente da Coordenação Pedagógica
-- 👨‍🏫 Ambiente do Professor
-- 🎓 Ambiente do Aluno
-- 👨‍👩‍👧 Ambiente do Responsável
-- 📚 Organização de cursos
-- 📝 Organização de atividades
-- 📊 Acompanhamento de desempenho
-- 📋 Controle de informações acadêmicas
-- 👥 Gerenciamento de alunos
+- 🍔 Cardápio organizado por categorias
+- 🔎 Visualização de produtos
+- 🛒 Carrinho de compras
+- ➕ Adição de produtos
+- ➖ Remoção de produtos
+- 🔢 Controle de quantidade
+- 💰 Cálculo automático do pedido
+- 🎟️ Sistema de cupons
+- 👤 Identificação do cliente
+- 💳 Formas de pagamento
+- 🧾 Processo de checkout
 - 📱 Interface responsiva
-- 🗄️ Integração com banco de dados
-- 🔎 Centralização das informações pedagógicas
+- 🧑‍💼 Área administrativa
+- 📋 Organização de pedidos
 
----
-
-## 🏫 Painel da Coordenação Pedagógica
-
-Ambiente destinado ao acompanhamento e gerenciamento das principais informações relacionadas aos alunos e processos pedagógicos.
-
-Permite uma visão mais organizada da operação e facilita o acompanhamento das informações acadêmicas.
-
----
-
-## 👨‍🏫 Página do Professor
-
-Área criada para facilitar o acesso dos professores às informações relacionadas às turmas, alunos e atividades.
-
----
-
-## 🎓 Página do Aluno
-
-Ambiente destinado ao aluno, permitindo acesso às principais informações relacionadas ao seu desenvolvimento acadêmico.
-
----
-
-## 👨‍👩‍👧 Página do Responsável
-
-Área desenvolvida para permitir um melhor acompanhamento das informações relacionadas ao aluno.
-
----
-
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas no projeto
 
 `React.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Supabase` `Figma` `Trello` `Inteligência Artificial`
 
----
+> React, TypeScript e Supabase foram utilizados especificamente no desenvolvimento deste projeto.
 
-## 👥 Trabalho em equipe
+## 🎨 Interface e Experiência
 
-A BityEdu foi desenvolvida por uma equipe de **dois integrantes**.
+Durante o desenvolvimento também trabalhamos conceitos relacionados a:
 
-Durante o projeto utilizamos o **Trello** para:
+- Figma
+- Prototipação
+- Organização visual
+- Responsividade
+- Navegação
+- Experiência do usuário
+- Estruturação das informações
+
+## 🗄️ Banco de Dados
+
+O projeto utiliza **Supabase** para apoio à estrutura de dados da aplicação.
+
+Foram trabalhados conceitos como:
+
+- Organização de informações
+- Cadastro de dados
+- Estruturação de informações
+- Integração entre aplicação e Banco de Dados
+
+## 👥 Trabalho em Equipe
+
+O projeto foi desenvolvido em uma equipe de **três integrantes**.
+
+Utilizamos o **Trello** para:
 
 - Organização das tarefas
 - Divisão das responsabilidades
-- Definição de prioridades
-- Controle das etapas
-- Acompanhamento das entregas
+- Definição das prioridades
+- Acompanhamento das etapas
+- Controle das entregas
+- Organização do projeto
 
-Também utilizamos ferramentas de **Inteligência Artificial** como apoio durante o planejamento, desenvolvimento e resolução de problemas.
+Também utilizamos ferramentas de **Inteligência Artificial** como apoio durante:
 
----
+- Planejamento
+- Pesquisa
+- Desenvolvimento
+- Solução de problemas
+- Estruturação das funcionalidades
 
-## 🎯 Principais aprendizados
+## 🎯 Principais Aprendizados
 
-A BityEdu permitiu colocar em prática conhecimentos relacionados a:
-
-- Desenvolvimento de sistemas
-- React.js
-- TypeScript
+- Desenvolvimento Web
 - JavaScript
+- HTML
+- CSS
 - Banco de Dados
-- Supabase
-- Desenvolvimento Front-End
-- Design de interfaces
-- Experiência do usuário
-- Responsividade
-- Gestão de projetos
+- Interfaces responsivas
+- Figma
+- Organização de projetos
 - Trabalho em equipe
+- Planejamento
 - Resolução de problemas
 - Inteligência Artificial aplicada ao desenvolvimento
 
@@ -264,195 +383,210 @@ A BityEdu permitiu colocar em prática conhecimentos relacionados a:
 
 <br>
 
-# 🍗 Popeyes — Plataforma Web de Pedidos Online
+# 🎓 BityEdu — Plataforma Educacional Integrada
 
 ### 🌐 Demonstração
 
-🔗 **[Acessar Plataforma Popeyes](https://big-sting-66449588.figma.site)**
+🔗 **[Acessar Plataforma BityEdu](https://penny-savor-92115544.figma.site)**
 
-Projeto desenvolvido em uma **equipe de três pessoas**, com o objetivo de criar uma plataforma web moderna e responsiva de pedidos online inspirada na identidade visual do **Popeyes**.
+A **BityEdu** é uma plataforma educacional moderna, integrada e responsiva desenvolvida em uma **equipe de duas pessoas**.
 
-A aplicação foi desenvolvida buscando oferecer uma experiência completa ao usuário, desde a escolha dos produtos até a finalização do pedido.
+O projeto foi criado com a proposta de centralizar informações e facilitar o acompanhamento entre **Coordenação Pedagógica, professores, alunos e responsáveis**.
 
----
+A BityEdu possui relação direta com minha experiência profissional como **Coordenador Pedagógico e Instrutor de Tecnologia**, permitindo utilizar conhecimentos da minha rotina profissional na construção de uma solução tecnológica voltada para educação.
 
 ## 🚀 Principais funcionalidades
 
-- 🍔 Cardápio organizado por categorias
-- 🛒 Carrinho de compras
-- 💰 Cálculo automático do pedido
-- 🎟️ Sistema de cupons
-- 💳 Seleção das formas de pagamento
-- 🧾 Checkout
-- 👤 Identificação do cliente
+- 🔐 Sistema de login
+- 🏫 Painel da Coordenação Pedagógica
+- 👨‍🏫 Ambiente do Professor
+- 🎓 Ambiente do Aluno
+- 👨‍👩‍👧 Ambiente do Responsável
+- 👥 Organização de alunos
+- 📚 Organização de cursos
+- 📝 Atividades
+- 📊 Acompanhamento de desempenho
+- 📋 Informações acadêmicas
+- 🗄️ Integração com Banco de Dados
 - 📱 Interface responsiva
-- 🧑‍💼 Área administrativa
-- 📋 Organização dos pedidos
 
----
+## 🏫 Coordenação Pedagógica
 
-## 🛠️ Tecnologias utilizadas
+Painel desenvolvido para centralizar e facilitar o acompanhamento das informações relacionadas aos processos pedagógicos.
+
+A proposta é oferecer uma visão mais organizada para facilitar a gestão de alunos, turmas e informações acadêmicas.
+
+## 👨‍🏫 Professor
+
+Área destinada ao acompanhamento das informações relacionadas a turmas, alunos e atividades.
+
+## 🎓 Aluno
+
+Ambiente destinado ao acesso das principais informações relacionadas ao desenvolvimento acadêmico.
+
+## 👨‍👩‍👧 Responsável
+
+Área desenvolvida para facilitar o acompanhamento das informações relacionadas ao aluno.
+
+## 🛠️ Tecnologias utilizadas no projeto
 
 `React.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Supabase` `Figma` `Trello` `Inteligência Artificial`
 
----
+> React, TypeScript e Supabase foram utilizados especificamente no desenvolvimento deste projeto.
 
-## 👥 Trabalho em equipe
+## 👥 Trabalho em Equipe
 
-O projeto foi desenvolvido em uma equipe de **três integrantes**.
+A BityEdu foi desenvolvida em uma equipe de **dois integrantes**.
 
-Utilizamos o **Trello** durante o desenvolvimento para:
+Utilizamos o Trello para:
 
-- Dividir as tarefas
-- Organizar responsabilidades
-- Acompanhar as etapas do projeto
-- Controlar o andamento das atividades
-- Facilitar a comunicação entre os integrantes
+- Organização das tarefas
+- Divisão das responsabilidades
+- Planejamento
+- Definição das prioridades
+- Acompanhamento das etapas
+- Gestão das entregas
 
-Também utilizamos ferramentas de **Inteligência Artificial** como apoio durante o planejamento e desenvolvimento.
+A Inteligência Artificial também foi utilizada como apoio durante o planejamento, desenvolvimento e resolução de problemas.
 
----
+## 🎯 Principais Aprendizados
 
-## 🎯 Principais aprendizados
-
-O projeto contribuiu para o desenvolvimento das minhas competências em:
-
-- Desenvolvimento Front-End
-- React.js
-- TypeScript
+- Desenvolvimento de sistemas
+- Desenvolvimento Web
 - JavaScript
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Banco de Dados
-- Supabase
-- Interfaces responsivas
-- Experiência do usuário
-- Organização de projetos
+- Interfaces
+- Responsividade
+- Figma
+- Gestão de projetos
 - Trabalho em equipe
 - Resolução de problemas
-- Utilização de IA como ferramenta de apoio
+- Planejamento
+- Inteligência Artificial
 
 ---
 
-# 🧠 Competências Aplicadas nos Projetos
+# 💡 Competências Práticas
+
+## 📊 Dados e Gestão
+
+Tenho experiência prática na criação e utilização de controles voltados para acompanhamento de informações.
+
+Entre eles:
+
+- Organização de bases de dados
+- Planilhas de controle
+- Indicadores
+- Relatórios
+- Acompanhamento de resultados
+- Organização de informações
+- Controle de alunos e turmas
+- Estruturação de dados
+- Apoio à tomada de decisão
+
+---
+
+## 📑 Excel
+
+Possuo conhecimentos de **Excel do básico ao avançado**, incluindo conteúdos relacionados ao padrão **MOS — Microsoft Office Specialist**.
+
+Utilizo Excel para:
+
+- Organização de bases
+- Fórmulas
+- Controles
+- Relatórios
+- Acompanhamento de indicadores
+- Planilhas administrativas
+- Planilhas pedagógicas
+- Organização e tratamento de informações
+
+---
+
+## 📊 Power BI
+
+Conhecimentos relacionados a:
+
+- Construção de dashboards
+- Visualização de dados
+- Indicadores
+- Organização de informações
+- Relatórios
+- Análise de resultados
+
+---
 
 ## 💻 Desenvolvimento
 
-- React.js
-- TypeScript
+Conhecimentos em:
+
+- HTML
+- CSS
 - JavaScript
-- HTML5
-- CSS3
-- Desenvolvimento Front-End
-- Interfaces responsivas
-
----
-
-## 🗄️ Banco de Dados
-
-- Supabase
+- WordPress
+- C
+- C#
 - SQL
-- Organização de dados
-- Estruturação de informações
-- Integração entre aplicação e banco de dados
-
----
-
-## 🎨 UI / UX
-
-- Figma
-- Design de interfaces
-- Prototipação
-- Experiência do usuário
-- Responsividade
-
----
-
-## 📋 Gestão de Projetos
-
-- Trello
-- Planejamento
-- Organização de tarefas
-- Divisão de responsabilidades
-- Definição de prioridades
-- Trabalho em equipe
-- Acompanhamento de entregas
+- Lógica de Programação
+- Banco de Dados
 
 ---
 
 ## 🤖 Inteligência Artificial
 
-Utilização de Inteligência Artificial como ferramenta de apoio para:
+Utilizo Inteligência Artificial como ferramenta de apoio para:
 
-- Planejamento
 - Pesquisa
-- Desenvolvimento
-- Estruturação de funcionalidades
-- Resolução de problemas
-- Revisão de código
-- Aprimoramento dos projetos
-
----
-
-# 📚 Atualmente Estudando
-
-🎓 **Análise de Dados — Universidade Cruzeiro do Sul**
-
-Atualmente estou aprofundando meus conhecimentos em:
-
-- 📊 Análise de Dados
-- 📈 Power BI
-- 📑 Excel
-- 🗄️ SQL
-- 🐍 Python
-- 📊 Visualização de dados
-- 🧹 Tratamento de dados
-- 📋 Indicadores e KPIs
-- 🗃️ Banco de Dados
-- 🤖 Inteligência Artificial
-- ⚙️ Automação
-- 💻 Tecnologia
-
----
-
-# 🧠 Competências
-
-## 💻 Competências Técnicas
-
-- Análise de Dados
-- Power BI
-- Excel
-- SQL
-- Python
-- Banco de Dados
-- React.js
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Supabase
-- Git
-- GitHub
-- Figma
-- Trello
-
----
-
-## 👥 Competências Profissionais
-
-- Comunicação
-- Liderança
-- Organização
-- Gestão de pessoas
-- Trabalho em equipe
-- Didática
-- Resolução de problemas
-- Pensamento analítico
-- Gestão pedagógica
-- Tomada de decisão
 - Planejamento
+- Organização
+- Desenvolvimento de projetos
+- Automação
+- Resolução de problemas
+- Criação de conteúdos
+- Estruturação de processos
+- Produtividade
+
+---
+
+# 🧠 Competências Profissionais
+
+Além dos conhecimentos técnicos, minha experiência profissional me permitiu desenvolver competências importantes para o ambiente de trabalho:
+
+- Liderança
+- Comunicação
+- Gestão de pessoas
+- Organização
+- Planejamento
+- Didática
+- Trabalho em equipe
+- Pensamento analítico
+- Resolução de problemas
+- Tomada de decisão
+- Gestão de prioridades
 - Proatividade
 - Adaptabilidade
+- Responsabilidade
+- Relacionamento interpessoal
+
+---
+
+# 📚 Atualmente
+
+🎓 Estudando **Análise de Dados na Universidade Cruzeiro do Sul**
+
+🏫 Atuando como **Coordenador Pedagógico**
+
+👨‍🏫 Atuando como **Instrutor de Tecnologia**
+
+📊 Desenvolvendo conhecimentos em **Dados e Business Intelligence**
+
+💻 Aprimorando conhecimentos em **programação e desenvolvimento web**
+
+🗄️ Estudando **Banco de Dados e SQL**
+
+🤖 Explorando aplicações de **Inteligência Artificial e automação**
 
 ---
 
@@ -466,9 +600,13 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 # 🤝 Vamos nos conectar
 
-Estou aberto a **networking, troca de conhecimentos, projetos e oportunidades profissionais** nas áreas de **Dados, Business Intelligence e Tecnologia**.
+Estou aberto a **networking, aprendizado, projetos e oportunidades profissionais** nas áreas de:
 
-## 📫 Contato
+`Análise de Dados` `Business Intelligence` `Tecnologia` `Desenvolvimento` `Banco de Dados` `Automação`
+
+---
+
+# 📫 Contato
 
 ### 💼 LinkedIn
 
@@ -481,7 +619,3 @@ Estou aberto a **networking, troca de conhecimentos, projetos e oportunidades pr
 ### 🐙 GitHub
 
 [github.com/MarceloJrProgramador](https://github.com/MarceloJrProgramador)
-
----
-
-### 🚀 Tecnologia, dados e conhecimento como ferramentas para transformar problemas em soluções.
