@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Marcelo Junior
 
-### 📊 Estudante de Análise de Dados | Coordenador Pedagógico | Instrutor de Tecnologia
+### 📊 Estudante de Análise de Dados | Coordenador Pedagógico | Instrutor de Cursos Livres
 
 Sou estudante de **Análise de Dados na Universidade Cruzeiro do Sul** e atualmente atuo como **Coordenador Pedagógico e Instrutor de Cursos Livres na Microlins**.
 
