@@ -34,17 +34,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos en
 
 ## 📌 Projetos
 
-🔹 Dashboard de Vendas - Power BI
 
-
-
-
-🔹 Portfólio Front-End
-
-
-
-
-🔹 Aplicações Web
 
 
 
