@@ -20,7 +20,7 @@ Tenho interesse em transformar problemas reais em soluções utilizando **dados,
 
 🏫 **Coordenador Pedagógico — Microlins**
 
-👨‍🏫 **Instrutor de Tecnologia — Microlins**
+👨‍🏫 **Instrutor de Cursos Livres — Microlins**
 
 📊 Foco em **Análise de Dados e Business Intelligence**
 
