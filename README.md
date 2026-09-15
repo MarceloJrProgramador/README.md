@@ -42,7 +42,6 @@ Busco oportunidades onde possa aplicar e desenvolver conhecimentos relacionados 
 
 - 📊 Análise e interpretação de dados
 - 📈 Business Intelligence
-- 📋 Indicadores e KPIs
 - 🗄️ Banco de Dados
 - 📑 Relatórios e informações gerenciais
 - 📊 Visualização de dados
