@@ -569,7 +569,7 @@ Além dos conhecimentos técnicos, minha experiência profissional me permitiu d
 
 ---
 
-#  Atualmente
+#  📚 Atualmente
 
 🎓 Estudando **Análise de Dados na Universidade Cruzeiro do Sul**
 
@@ -595,5 +595,3 @@ Você pode entrar em contato comigo pelos canais abaixo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo%20Junior-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-juniorti/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-marcelotiprofissional27%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelotiprofissional27@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-MarceloJrProgramador-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarceloJrProgramador)
