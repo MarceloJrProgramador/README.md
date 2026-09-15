@@ -82,7 +82,7 @@ Tenho interesse principalmente em:
 - JavaScript
 - WordPress
 - Estruturação de páginas web
-- Formulários
+- Formularios
 - Layouts responsivos
 - Organização de interfaces
 - Desenvolvimento de projetos web
