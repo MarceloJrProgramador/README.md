@@ -556,7 +556,6 @@ Além dos conhecimentos técnicos, minha experiência profissional me permitiu d
 - Comunicação
 - Gestão de pessoas
 - Organização
-- Planejamento
 - Didática
 - Trabalho em equipe
 - Pensamento analítico
