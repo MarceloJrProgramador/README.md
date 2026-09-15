@@ -589,14 +589,10 @@ Além dos conhecimentos técnicos, minha experiência profissional me permitiu d
 
 # 📫 Contato
 
-### 💼 LinkedIn
+Você pode entrar em contato comigo pelos canais abaixo:
 
-[linkedin.com/in/marcelo-juniorti](https://www.linkedin.com/in/marcelo-juniorti/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo%20Junior-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-juniorti/)
 
-### 📧 E-mail
+[![Gmail](https://img.shields.io/badge/Gmail-marcelotiprofissional27%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelotiprofissional27@gmail.com)
 
-[marcelotiprofissional27@gmail.com](mailto:marcelotiprofissional27@gmail.com)
-
-### 🐙 GitHub
-
-[github.com/MarceloJrProgramador](https://github.com/MarceloJrProgramador)
+[![GitHub](https://img.shields.io/badge/GitHub-MarceloJrProgramador-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarceloJrProgramador)
