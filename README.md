@@ -22,7 +22,7 @@ Tenho interesse em transformar problemas reais em soluções utilizando **dados,
 
 👨‍🏫 **Instrutor de Cursos Livres — Microlins**
 
-📊 Foco em **Análise de Dados e Business Intelligence**
+📊 Foco em **Análise de Dados e Desenvolvimento Front.End**
 
 📈 Experiência com acompanhamento e organização de indicadores
 
