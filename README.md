@@ -575,7 +575,7 @@ Além dos conhecimentos técnicos, minha experiência profissional me permitiu d
 
 🏫 Atuando como **Coordenador Pedagógico**
 
-👨‍🏫 Atuando como **Instrutor de Cursos Livres*
+👨‍🏫 Atuando como **Instrutor de Cursos Livres**
 
 📊 Desenvolvendo conhecimentos em **Dados e Business Intelligence**
 
