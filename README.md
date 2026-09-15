@@ -2,7 +2,7 @@
 
 ### 📊 Estudante de Análise de Dados | Coordenador Pedagógico | Instrutor de Tecnologia
 
-Sou estudante de **Análise de Dados na Universidade Cruzeiro do Sul** e atualmente atuo como **Coordenador Pedagógico e Instrutor de Tecnologia na Microlins**.
+Sou estudante de **Análise de Dados na Universidade Cruzeiro do Sul** e atualmente atuo como **Coordenador Pedagógico e Instrutor de Cursos Livres na Microlins**.
 
 Minha trajetória profissional reúne **tecnologia, educação, gestão, análise de informações e desenvolvimento de soluções digitais**.
 
