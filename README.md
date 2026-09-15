@@ -1,164 +1,227 @@
-# 👨‍💻 Olá, eu sou Marcelo Junior
+# 👋 Olá, eu sou Marcelo Junior
 
-### Desenvolvedor Júnior | Analista de Dados | Instrutor de Tecnologia
+### 📊 Analista de Dados em Formação | Coordenador Pedagógico | Instrutor de Tecnologia
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com experiência como
-**Instrutor de Cursos Livres em Tecnologia** e interesse em desenvolvimento de
-software, análise de dados, automação e Business Intelligence.
+Sou estudante de **Análise de Dados na Universidade Cruzeiro do Sul** e atualmente atuo como **Coordenador Pedagógico e Instrutor de Tecnologia na Microlins**.
 
-Gosto de desenvolver soluções que transformam problemas reais em sistemas,
-dashboards e ferramentas que facilitam processos e tomadas de decisão.
+Minha trajetória profissional une **educação, gestão, tecnologia e análise de informações**.
 
-Atualmente estou aprimorando meus conhecimentos em **Front-End, Python, SQL,
-Banco de Dados, Power BI, Inteligência Artificial e desenvolvimento de sistemas**.
+No dia a dia, trabalho com acompanhamento de alunos, organização pedagógica, indicadores, controles, planejamento e utilização de tecnologia para melhorar processos.
 
----
+Atualmente estou direcionando minha carreira para **Análise de Dados e Business Intelligence**, desenvolvendo conhecimentos e projetos com **Power BI, Excel, SQL, Python, Banco de Dados e visualização de dados**.
 
-## 🎯 Sobre mim
-
-💻 Desenvolvimento de aplicações e interfaces web  
-📊 Criação de dashboards e análise de dados  
-🗄️ Desenvolvimento e modelagem de Banco de Dados  
-⚙️ Automação de processos  
-🤖 Interesse em Inteligência Artificial aplicada a sistemas  
-👨‍🏫 Experiência com ensino de tecnologia e acompanhamento de alunos  
-
-Busco oportunidades para evoluir profissionalmente nas áreas de
-**Desenvolvimento de Software, Dados, Business Intelligence e Tecnologia**.
+Meu objetivo é utilizar dados para transformar informações em **indicadores, análises e insights que auxiliem na tomada de decisão**.
 
 ---
 
-# 🚀 Tecnologias e Ferramentas
+# 👨‍💼 Sobre mim
 
-### 💻 Desenvolvimento
+🎓 Estudante de **Análise de Dados — Universidade Cruzeiro do Sul**
 
-![HTML5](https://img.shields.io/badge/HTML5-HTML-black?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-CSS-black?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-JS-black?logo=javascript)
-![React](https://img.shields.io/badge/React-React-black?logo=react)
-![Python](https://img.shields.io/badge/Python-Python-black?logo=python)
-![C#](https://img.shields.io/badge/C%23-CSharp-black?logo=csharp)
+🏫 **Coordenador Pedagógico — Microlins**
 
-### 📊 Dados e Business Intelligence
+👨‍🏫 **Instrutor de Tecnologia — Microlins**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-black?logo=powerbi)
-![SQL](https://img.shields.io/badge/SQL-Database-black)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-black?logo=python)
-![Excel](https://img.shields.io/badge/Excel-Avançado-black?logo=microsoftexcel)
+📊 Focado em **Análise de Dados e Business Intelligence**
 
-### 🛠️ Ferramentas
+📈 Interesse em **indicadores, dashboards, automação e tomada de decisão baseada em dados**
 
-![Git](https://img.shields.io/badge/Git-Versionamento-black?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Repositórios-black?logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-black?logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-Design-black?logo=figma)
+💻 Desenvolvendo projetos utilizando **Power BI, Excel, SQL, Python e Banco de Dados**
+
+🧠 Interesse em **Inteligência Artificial aplicada à análise e automação de processos**
 
 ---
 
-# 💼 Experiência e Competências
+# 🎯 Objetivo Profissional
 
-### 👨‍🏫 Instrutor de Tecnologia
+Estou construindo minha carreira na área de **Análise de Dados e Business Intelligence**.
 
-Atuação no ensino de ferramentas e tecnologias, auxiliando alunos no
-desenvolvimento de competências digitais e profissionais.
+Busco oportunidades onde possa trabalhar com:
 
-Principais competências desenvolvidas:
+- 📊 Análise e interpretação de dados
+- 📈 Criação de dashboards
+- 📋 Desenvolvimento de indicadores e KPIs
+- 🗄️ Banco de Dados
+- 🔎 Tratamento e exploração de dados
+- 📑 Relatórios gerenciais
+- ⚙️ Automação de processos
+- 🧠 Inteligência Artificial aplicada a dados
+- 💼 Apoio à tomada de decisão
 
-- Comunicação e didática
-- Suporte e orientação técnica
+Tenho interesse principalmente em oportunidades como:
+
+**Analista de Dados Júnior | Analista de BI Júnior | Assistente de BI | Analista de Indicadores | Assistente de Dados**
+
+---
+
+
+
+## 🗄️ Banco de Dados
+
+- SQL
+- Modelagem de Dados
+- Consultas
+- Relacionamentos
+- Estruturação de tabelas
+- Manipulação de dados
+
+---
+
+## 💻 Desenvolvimento
+
+
+---
+
+## 🛠️ Ferramentas
+
+
+---
+
+# 💼 Experiência Profissional
+
+## 🏫 Coordenador Pedagógico — Microlins
+
+Atuação na gestão e acompanhamento de processos pedagógicos, alunos, turmas e atividades educacionais.
+
+### Principais atividades
+
+- Acompanhamento de alunos e desempenho
+- Gestão de turmas
+- Organização pedagógica
+- Controle de presença e faltas
+- Controle de reposições
+- Acompanhamento de indicadores
+- Organização de informações em planilhas
+- Comunicação com alunos e responsáveis
+- Apoio aos instrutores
 - Organização de atividades e projetos
-- Desenvolvimento de alunos
+- Desenvolvimento de controles internos
+- Utilização de dados para acompanhamento pedagógico
+
+---
+
+## 👨‍🏫 Instrutor de Tecnologia — Microlins
+
+Atuação no ensino de tecnologia, ferramentas digitais e desenvolvimento de competências profissionais.
+
+### Competências desenvolvidas
+
+- Didática
+- Comunicação
+- Suporte técnico
 - Resolução de problemas
+- Organização
+- Gestão de pessoas
 - Tecnologia aplicada à educação
 - Trabalho em equipe
+- Desenvolvimento de alunos
+- Orientação profissional
 
 ---
 
 # 📌 Projetos em Destaque
 
+
 ## 🎓 ByteEdu
 
-Plataforma educacional voltada para gerenciamento e acompanhamento de alunos,
-professores e atividades acadêmicas.
+Projeto de plataforma educacional desenvolvido para gerenciamento e acompanhamento de alunos.
 
-**Tecnologias:** HTML, CSS, JavaScript, Banco de Dados e Inteligência Artificial.
+### Funcionalidades planejadas
 
-🔗 **[Ver projeto no GitHub](COLOQUE-AQUI-O-LINK)**
+- Cadastro de alunos
+- Cadastro de professores
+- Painel administrativo
+- Acompanhamento de alunos
+- Organização de informações
+- Indicadores acadêmicos
+- Recursos de Inteligência Artificial
 
----
+### Tecnologias
 
-## 💰 FinanIA
+`HTML` `CSS` `JavaScript` `Banco de Dados` `IA`
 
-Assistente financeiro desenvolvido para facilitar o controle de receitas,
-despesas, cartões, metas financeiras e análise de dados.
+# 📚 Atualmente Estudando
 
-O projeto explora recursos de automação e Inteligência Artificial aplicados
-à gestão financeira.
+🎓 **Análise de Dados — Universidade Cruzeiro do Sul**
 
-**Tecnologias:** JavaScript, IA, automação e análise de dados.
+Atualmente estou aprofundando meus conhecimentos em:
 
-🔗 **[Ver projeto no GitHub](COLOQUE-AQUI-O-LINK)**
-
----
-
-## 💬 ZapManager
-
-Sistema desenvolvido para gerenciamento de atendimento e comunicação via
-WhatsApp, incluindo organização de conversas, campanhas e respostas rápidas.
-
-**Tecnologias:** Desenvolvimento Web, JavaScript, automação e IA.
-
-🔗 **[Ver projeto no GitHub](COLOQUE-AQUI-O-LINK)**
-
----
-
-## 📊 Dashboard de Business Intelligence
-
-Projeto de análise e visualização de dados utilizando dashboards para facilitar
-a interpretação de indicadores e apoiar tomadas de decisão.
-
-**Tecnologias:** Power BI, Excel, SQL e análise de dados.
-
-🔗 **[Ver projeto no GitHub](COLOQUE-AQUI-O-LINK)**
+- 📊 Power BI
+- 🗄️ SQL
+- 🐍 Python
+- 📈 Estatística
+- 📑 Excel para análise de dados
+- 🧹 Tratamento de dados
+- 📊 Visualização de dados
+- 🗃️ Banco de Dados
+- 📋 Indicadores e KPIs
+- 🤖 Inteligência Artificial
+- ⚙️ Automação
 
 ---
 
-# 📚 Atualmente estudando
+# 🧠 Competências
 
-🎓 Análise e Desenvolvimento de Sistemas  
-🐍 Python  
-🗄️ SQL e Banco de Dados  
-📊 Power BI e Business Intelligence  
-⚛️ React  
-🤖 Inteligência Artificial e Automação  
-🌐 Desenvolvimento Web  
+## Técnicas
+
+- Análise de Dados
+- Excel
+- Power BI
+- SQL
+- Python
+- Banco de Dados
+- Dashboards
+- Indicadores
+- Relatórios
+- Git e GitHub
+- HTML
+- CSS
+- JavaScript
+
+## Profissionais
+
+- Comunicação
+- Liderança
+- Organização
+- Gestão de pessoas
+- Trabalho em equipe
+- Didática
+- Resolução de problemas
+- Pensamento analítico
+- Gestão pedagógica
+- Tomada de decisão
+- Planejamento
 
 ---
 
-# 🎯 Objetivos Profissionais
+# 📈 GitHub
 
-Meu objetivo é desenvolver minha carreira na área de tecnologia,
-principalmente em oportunidades relacionadas a:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloJrProgramador&show_icons=true&locale=pt-br)
 
-**Desenvolvimento de Software • Front-End • Análise de Dados • Business Intelligence • Automação**
-
-Busco projetos e oportunidades onde possa aplicar meus conhecimentos,
-continuar evoluindo tecnicamente e contribuir na criação de soluções úteis
-para pessoas e empresas.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloJrProgramador&layout=compact&locale=pt-br)
 
 ---
 
-# 📫 Contato
+# 🤝 Vamos nos conectar
 
-💼 **LinkedIn:**  
+Tenho interesse em oportunidades, projetos, networking e troca de conhecimento nas áreas de **Dados, Business Intelligence e Tecnologia**.
+
+### 📫 Contato
+
+💼 **LinkedIn**
+
 [linkedin.com/in/marcelo-juniorti](https://www.linkedin.com/in/marcelo-juniorti/)
 
-📧 **E-mail:**  
+📧 **E-mail**
+
 [marcelotiprofissional27@gmail.com](mailto:marcelotiprofissional27@gmail.com)
 
-🐙 **GitHub:**  
+🐙 **GitHub**
+
 [github.com/MarceloJrProgramador](https://github.com/MarceloJrProgramador)
 
 ---
 
-### 🚀 Sempre aprendendo, desenvolvendo e transformando ideias em projetos
+### 📊 Dados não são apenas números. São informações capazes de apoiar melhores decisões.
+
+⭐ Sempre aprendendo, desenvolvendo projetos e evoluindo na área de tecnologia e dados.
