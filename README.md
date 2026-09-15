@@ -569,7 +569,7 @@ Além dos conhecimentos técnicos, minha experiência profissional me permitiu d
 
 ---
 
-#  📚 Atualmente
+#📚 Atualmente
 
 🎓 Estudando **Análise de Dados na Universidade Cruzeiro do Sul**
 
