@@ -4,7 +4,7 @@
 
 Sou estudante de **Análise de Dados na Universidade Cruzeiro do Sul** e atualmente atuo como **Coordenador Pedagógico e Instrutor de Cursos Livres na Microlins**.
 
-Minha trajetória profissional reúne **tecnologia, educação, gestão, análise de informações e desenvolvimento de soluções digitais**.
+Minha trajetória profissional reúne **tecnologia, educação, gestão, análise de informações e desenvolvimento de soluções Cenarios**.
 
 No ambiente profissional, trabalho com organização pedagógica, acompanhamento de alunos, gestão de turmas, indicadores, controles, planilhas, processos internos, comunicação e utilização de tecnologia para apoiar a operação e a tomada de decisão.
 
