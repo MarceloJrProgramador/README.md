@@ -59,7 +59,7 @@ Tenho interesse principalmente em:
 
 ### 💼 Áreas de interesse
 
-**Analista de Dados Júnior | Assistente de Dados | Analista de BI Júnior | Assistente de BI | Analista de Indicadores | Tecnologia da Informação**
+**Analista de Dados Júnior | Analista de BI Júnior | Desenvolvimento Front.End | Tecnologia da Informação**
 
 ---
 
