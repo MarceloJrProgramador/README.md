@@ -548,7 +548,7 @@ Utilizo Inteligência Artificial como ferramenta de apoio para:
 
 ---
 
-# 🧠 Competências Profissionais
+#  Competências Profissionais
 
 Além dos conhecimentos técnicos, minha experiência profissional me permitiu desenvolver competências importantes para o ambiente de trabalho:
 
@@ -569,7 +569,7 @@ Além dos conhecimentos técnicos, minha experiência profissional me permitiu d
 
 ---
 
-#📚  Atualmente
+# Atualmente
 
 🎓 Estudando **Análise de Dados na Universidade Cruzeiro do Sul**
 
