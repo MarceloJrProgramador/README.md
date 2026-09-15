@@ -587,14 +587,6 @@ Além dos conhecimentos técnicos, minha experiência profissional me permitiu d
 
 ---
 
-# 📈 Estatísticas do GitHub
-
-![Marcelo GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloJrProgramador&show_icons=true&locale=pt-br&hide_border=true)
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloJrProgramador&layout=compact&locale=pt-br&hide_border=true)
-
----
-
 
 
 # 📫 Contato
