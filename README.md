@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Marcelo Junior
 
-### 📊 ### Estudante de Análise de Dados | Coordenador Pedagógico | Instrutor de Cursos Livres
+### 📊 Estudante de Análise de Dados | Coordenador Pedagógico | Instrutor de Cursos Livres
 
 Tenho **18 anos**, sou estudante de **Análise de Dados na Universidade Cruzeiro do Sul** e atualmente atuo como **Coordenador Pedagógico e Instrutor de Cursos Livres na Microlins**.
 
